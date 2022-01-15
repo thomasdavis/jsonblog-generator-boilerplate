@@ -11,7 +11,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "handlebars": "^4.7.6",
-    "marked": "^1.1.0",
+    "marked": "^4.0.10",
     "slugify": "^1.4.0"
   }
 }
